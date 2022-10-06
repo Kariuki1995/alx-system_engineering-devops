@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=Currentgroup :NewGroup 2-groups
+groups
