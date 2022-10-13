@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo $path | tr ":""\n" | wc -l
-=======
-echo $path | tr ":" "\n" | wc -l 
->>>>>>> 1f3d9ead6c2363712217c0714a2dfe420695966b
